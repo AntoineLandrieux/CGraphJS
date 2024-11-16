@@ -1,11 +1,11 @@
 
 # CGraphJS
 
-> **Graph on your website**
+> **Graph on your website. [Test it now](https://antoinelandrieux.github.io/CGraphJS/example)**
 
 CGraphJS is distributed under the [WTFPL](LICENSE)
 
-[!IMAGE](resources/github/image.png)
+![IMAGE](resources/github/image.png)
 
 ## Documentation
 
