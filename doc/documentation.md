@@ -37,7 +37,7 @@ window.onload = () => {
     // Add math function
     // "Math.sin(x/10)*100" -> function
     // "green" -> function's color
-    cgraphjs.addfunction("Math.sin(x/10)*100", "green");
+    cgraphjs.addfunction("Math.sin(x/10)*100", "#00ff00");
     
     // Clear canvas and draw grid, axis and functions
     cgraphjs.draw();
@@ -80,29 +80,6 @@ window.onload = () => {
     cgraphjs.axis_color_x = "#ff0000";
     cgraphjs.axis_color_y = "#0000ff";
 
-    cgraphjs.addfunction("x**2", "white");
-    cgraphjs.addfunction("Math.sin(x/10)*100", "green");
-    
-    cgraphjs.draw();
-
-}
-```
-
-### 2.3 Grid color
-
-```js
-window.onload = () => {
-    
-    const graph = document.getElementById("graph");
-    const cgraphjs = new cgraph(graph);
-
-    cgraphjs.background_color = "#000000";
-    cgraphjs.axis_color_x = "#ff0000";
-    cgraphjs.axis_color_y = "#0000ff";
-
-    // Change grid color
-    cgraphjs.grid_color = "#ffffff0a";
-    
     cgraphjs.addfunction("x**2", "white");
     cgraphjs.addfunction("Math.sin(x/10)*100", "green");
     

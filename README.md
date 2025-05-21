@@ -1,20 +1,29 @@
 
 # CGraphJS
 
-> **Graph on your website. [Test it now](https://antoinelandrieux.github.io/CGraphJS/example)**
+![CGraphJS](resources/github/image.png)
 
-CGraphJS is distributed under the [WTFPL](LICENSE)
+**Graph on your website !**
 
-![IMAGE](resources/github/image.png)
+>
+> CGraphJS is distributed under the [WTFPL](LICENSE).
+>
+
+---
 
 ## Documentation
 
-See [CGraphJS Documentation](documentation/README.md)
+See [CGraphJS Documentation](doc/documentation.md)
 
 ## Contributing
 
-The CGraphJS source code is located in the Git repository at github.com/AntoineLandrieux/CGraphJS. Contributions are most welcome by forking the repository and sending a pull request.
+The CGraphJS source code is located in the Git repository at [github.com/AntoineLandrieux/CGraphJS](https://github.com/AntoineLandrieux/CGraphJS/).
+Contributions are most welcome by forking the repository and sending a pull request.
 
 ## Credit
 
-- [Antoine Landrieux](https://github.com/AntoineLandrieux/) - Developer
+See **[AUTHORS file](AUTHORS)**
+
+**Contributors :**
+
+![contributors](https://contrib.rocks/image?repo=AntoineLandrieux/CGraphJS)
